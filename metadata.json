@@ -1,0 +1,5 @@
+{
+  "name": "Magic Edit AI",
+  "description": "An advanced image editing application where you can highlight specific areas and use Gemini AI to modify them based on your text prompts.",
+  "requestFramePermissions": []
+}
